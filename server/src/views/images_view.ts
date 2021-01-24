@@ -5,7 +5,7 @@ export default {
         return {
             id: image.id,
             //url: `http://localhost:3333/uploads/${image.path}`
-            url: `http://192.168.15.3:3333/uploads/${image.path}`
+            url: `http://192.168.15.4:3333/uploads/${image.path}`
         }
     },
 
